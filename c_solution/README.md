@@ -1,4 +1,4 @@
-# **_Welcome to the Let--Us-C-Solution_**
+# **_Welcome to the Let-Us-C-Solution_**
 This is a place for some fun programs with c.
 We will try to solve the problems given in Let Us C book by Yashavant Kanetkar.
 And try to do some extra stuff also.
